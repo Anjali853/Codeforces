@@ -22,4 +22,4 @@ public class Puzzles {
         }
         System.out.println(minDiff);
     }
-}
+} Dragons
