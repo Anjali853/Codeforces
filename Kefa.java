@@ -7,7 +7,7 @@ public class Kefa {
         Friend(long m, long f){
             money = m;
             Friendship = f;
-        }
+        } 
     
         
     }
