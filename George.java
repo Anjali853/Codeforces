@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class George {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String s = sc.nextInt();
-        String t = sc.nextInt();
+        String s = sc.next();
+        String t = sc.next();
 
         String[] curr = s.split(":");
         String[] sleep = t.split(":");
@@ -15,9 +15,7 @@ public class George {
         int totalS = sh * 60 + sm;
         int totalT = tHour * 60 + tMin;
 
-         int total = totalS - totalT
-
-         int 
+         int total = totalS - totalT;
 
     }
 }
