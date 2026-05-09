@@ -10,7 +10,7 @@ public class LittleElephant {
         if(index!=-1){
             System.out.println(s.substring(0,index) + s.substring(index+1));
         }else{
-            System.out.println(s.substring(0, s.length() - 1));
+            System.out.println(s.substring(0, s.length() - 1));Sereja and Dima
         }
      }
 }
